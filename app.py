@@ -9,3 +9,5 @@ df = pd.DataFrame(data.values())
 
 print(df.head())
 print(df.info())
+print(df.describe())
+
